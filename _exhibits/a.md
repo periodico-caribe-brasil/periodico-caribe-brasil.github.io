@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
+title: 'Buckley'
 author: Mihr 'Ali
 publish_date: 2018-11-15
 permalink: /exhibits/a/
