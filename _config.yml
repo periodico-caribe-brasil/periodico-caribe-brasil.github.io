@@ -21,7 +21,7 @@
 title:            'FromthePage'
 description:      'Minimal Exhibitions with Jekyll'
 url:              ''
-baseurl:          '/periodico-caribe-brasil.github.io'
+baseurl:          '/'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
