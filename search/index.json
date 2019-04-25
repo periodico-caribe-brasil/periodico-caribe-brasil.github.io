@@ -2,5 +2,108 @@
 layout: none
 ---
 [
-
+  {
+    "link": "{{'/buckley/obj1/' | absolute_url }}",
+    "collection": "buckley",
+    "artist": "none",
+    "location": "New_York",
+    "label": "blac_BuckleyWiF_Clippings_1914_08A-12D_001.jpg",
+    "_date": "1914",
+    "object_type": "newspaper",
+    "current_location": "Benson",
+    "pid": "obj1",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "lunr_index": 0
+  },
+  {
+    "link": "{{'/buckley/obj2/' | absolute_url }}",
+    "collection": "buckley",
+    "artist": "none",
+    "location": "New_York",
+    "label": "blac_BuckleyWiF_Clippings_1914_08A-12D_002.jpg",
+    "_date": "1914",
+    "object_type": "newspaper",
+    "current_location": "Benson",
+    "pid": "obj2",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "lunr_index": 1
+  },
+  {
+    "link": "{{'/buckley/obj3/' | absolute_url }}",
+    "collection": "buckley",
+    "artist": "none",
+    "location": "New_York",
+    "label": "blac_BuckleyWiF_Clippings_1914_08A-12D_003.jpg",
+    "_date": "1914",
+    "object_type": "newspaper",
+    "current_location": "Benson",
+    "pid": "obj3",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "lunr_index": 2
+  },
+  {
+    "link": "{{'/buckley/obj4/' | absolute_url }}",
+    "collection": "buckley",
+    "artist": "none",
+    "location": "New_York",
+    "label": "blac_BuckleyWiF_Clippings_1914_08A-12D_004.jpg",
+    "_date": "1914",
+    "object_type": "newspaper",
+    "current_location": "Benson",
+    "pid": "obj4",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "lunr_index": 3
+  },
+  {
+    "link": "{{'/buckley/obj5/' | absolute_url }}",
+    "collection": "buckley",
+    "artist": "none",
+    "location": "New_York",
+    "label": "blac_BuckleyWiF_Clippings_1914_08A-12D_005.jpg",
+    "_date": "1914",
+    "object_type": "newspaper",
+    "current_location": "Benson",
+    "pid": "obj5",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "lunr_index": 4
+  },
+  {
+    "link": "{{'/buckley/obj6/' | absolute_url }}",
+    "collection": "buckley",
+    "artist": "none",
+    "location": "New_York",
+    "label": "blac_BuckleyWiF_Clippings_1914_08A-12D_006.jpg",
+    "_date": "1914",
+    "object_type": "newspaper",
+    "current_location": "Benson",
+    "pid": "obj6",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "lunr_index": 5
+  },
+  {
+    "link": "{{'/buckley/obj7/' | absolute_url }}",
+    "collection": "buckley",
+    "artist": "none",
+    "location": "New_York",
+    "label": "blac_BuckleyWiF_Clippings_1914_08A-12D_007.jpg",
+    "_date": "1914",
+    "object_type": "newspaper",
+    "current_location": "Benson",
+    "pid": "obj7",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+    "lunr_index": 6
+  },
+  {
+    "link": "{{'/buckley/obj8/' | absolute_url }}",
+    "collection": "buckley",
+    "artist": "none",
+    "location": "New_York",
+    "label": "blac_BuckleyWiF_Clippings_1914_08A-12D_008.jpg",
+    "_date": "1914",
+    "object_type": "newspaper",
+    "current_location": "Benson",
+    "pid": "obj8",
+    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
+    "lunr_index": 7
+  }
 ]

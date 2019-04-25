@@ -73,7 +73,7 @@ lunr_index:
   - file: '/search/index.json' # file the index will get written to
     ui:   '/search/ui.js' # path to the search UI file
     collections:
-      qatar:
+      buckley:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
