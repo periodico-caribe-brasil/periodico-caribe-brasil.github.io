@@ -70,11 +70,11 @@ collections:
 # and running `$ bundle exec rake wax:lunr UI=true`.
 
 lunr_index:
-  - file: '/search/index.json' # file the index will get written to
-    ui:   '/search/ui.js' # path to the search UI file
+  - file: '/index.json' # file the index will get written to
+    ui:   '/search-ui.js' # path to the search UI file
     collections:
       buckley:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
           - artist
           - location
