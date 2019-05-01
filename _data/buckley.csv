@@ -1,4 +1,4 @@
-pid,artist,location,label,_date,object_type,current_location,source,order,thumbnail,full,manifest
+pid,artist,Location,label,_date,object_type,Collection,Author,order,thumbnail,full,manifest
 obj1,none,New_York,blac_BuckleyWiF_Clippings_1914_08A-12D_001.jpg,1914,newspaper,Benson,The_Sun_via_Benson,00,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg",/img/derivatives/iiif/obj1/manifest.json
 obj2,none,New_York,blac_BuckleyWiF_Clippings_1914_08A-12D_002.jpg,1914,newspaper,Benson,The_Sun_via_Benson,01,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg",/img/derivatives/iiif/obj2/manifest.json
 obj3,none,New_York,blac_BuckleyWiF_Clippings_1914_08A-12D_003.jpg,1914,newspaper,Benson,The_Sun_via_Benson,02,"/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg",/img/derivatives/iiif/obj3/manifest.json
