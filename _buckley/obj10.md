@@ -2,7 +2,7 @@
 pid: obj9
 artist: none
 Location: New_York
-label: Buckley_William_Villa_1.jpg
+label: Buckley_William_Villa_10.jpg
 _date: '1914'
 object_type: newspaper
 Collection: Benson
